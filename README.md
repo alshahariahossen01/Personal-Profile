@@ -28,7 +28,7 @@ My goal is to leverage my skills to create impactful and innovative solutions.
 
 Here are some of the projects that I've worked on:
 
-- **[Project Name](https://github.com/alshaharia/Personal-Profile)**: 
+- **[Project Name]((https://github.com/alshahariahossen01/Personal-Profile/))**: 
 - **will be update
 
 ## Achievements and Highlights
