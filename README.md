@@ -54,5 +54,5 @@ Thank you for visiting my personal profile repository. I look forward to connect
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the ©Al Shaharia Hossen
 
