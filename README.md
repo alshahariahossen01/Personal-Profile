@@ -4,6 +4,8 @@ Welcome to the Personal Profile of Al Shaharia Hossen!
 
 This repository is dedicated to showcasing my skills, experiences, projects and my social links.
 Here, you can find a detailed overview of my professional journey and what I’m passionate about in the world of technology and beyond.
+![Screenshot (27)](https://github.com/alshahariahossen01/Personal-Profile/assets/144457355/38af0db6-6013-440d-b0a4-83ff515defa7)
+
 
 ## About Me
 
